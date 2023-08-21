@@ -6,4 +6,4 @@
 
 [![Top Langs](https://github-readme-stats-emolina7.vercel.app/api/top-langs/?username=emolina7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Erwan Molina's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emolina7)](https://github.com/anuraghazra/github-readme-stats)
+![Erwan Molina's wakatime stats](https://github-readme-stats-emolina7.vercel.app/api/wakatime?username=emolina7\&layout=compact)
